@@ -1,0 +1,6 @@
+{
+    "pasta colgate": {
+        "cantidad": 14,
+        "precio": 1.89
+    }
+}
